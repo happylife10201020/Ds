@@ -1,0 +1,3 @@
+C:/Users/bells/CProject/DS_Assignment1/cmake-build-debug/CMakeFiles/DS_Assignment1.dir
+C:/Users/bells/CProject/DS_Assignment1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bells/CProject/DS_Assignment1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
